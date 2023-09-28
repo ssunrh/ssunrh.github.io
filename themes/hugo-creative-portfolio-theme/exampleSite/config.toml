@@ -1,5 +1,5 @@
 baseurl = "https://example.org/"
-title = "sarah sun"
+title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,7 +14,8 @@ googleAnalytics = ""
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "description"
+    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "Originally from Toronto, currently based in London."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -40,32 +41,28 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
 
   [[params.navlinks]]
-  identifier = "digital"
-  name = "digital illustration"
-  url = "digital/"
-
-  [[params.navlinks]]
-  identifier = "traditional"
-  name = "fine arts"
-  url = "traditional/"
-
-  [[params.navlinks]]
-  identifier = "merch"
-  name = "merch design"
-  url = "merch/"
-  parent = "digital"
-
-  [[params.navlinks]]
-  identifier = "graphic"
-  name = "graphic design"
-  url = "graphic/"
-
-  [[params.navlinks]]
-  name = "about"
+  name = "About"
   url = "about/"
 
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
   [params.social]
-  email         = "sarahandsun@gmail.com"
-  linkedin      = "https://www.linkedin.com/in/ssunrh/"
+  facebook      = "full page or profile url in facebook"
+  googleplus    = "full profile url in googleplus"
+  email         = "email@example.com"
+  twitter       = "full profile url in twitter"
+  linkedin      = "full profile url in linkedin"
+  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
+  gitlab        = "full profile url in gitlab"
+  youtube       = "full profile url in youtube"
+  whatsapp      = "wa.me service link"

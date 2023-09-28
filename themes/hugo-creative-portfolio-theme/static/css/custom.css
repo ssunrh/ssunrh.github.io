@@ -1,0 +1,7 @@
+<div class="dropdown-content">
+      {{ if .HasChildren }}
+        {{ range .Children }}
+          <a href="{{.URL}}">{{ .Name }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
