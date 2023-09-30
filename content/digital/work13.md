@@ -8,6 +8,6 @@ weight = 12
 +++
 
 ![1]
-illustration of support player corejj.
+illustration of support player corejj!
 
 [1]: /img/portfolio/core.png
