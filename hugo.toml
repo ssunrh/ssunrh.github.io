@@ -27,6 +27,11 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
+  [[params.navlinks]]
+  identifier = "art"
+  name = "home"
+  url = "art/"
+  home = true
 
   [[params.navlinks]]
   identifier = "digital"
