@@ -4,7 +4,7 @@ title = "LOONATHEMODE"
 draft = false
 image = "img/portfolio/ltm.png"
 showonlyimage = true
-weight = 13
+weight = 5
 +++
 
 ![1]
