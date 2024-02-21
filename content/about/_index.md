@@ -10,7 +10,7 @@ and i'm a psychology/cognitive science undergrad based in california with an int
 
 i specialize in clean lines, bright colors, and strong silhouette and shape language.
 
-when i'm not drawing, you can find me playing video games, cheering my heart out to esports games, reading books/webnovels, or crocheting!
+when i'm not drawing, you can find me playing video games, cheering my heart out to esports games, or reading books/webnovels!
 
 
 [1]: /img/portfolio/new.png
