@@ -28,31 +28,35 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "about"
+  identifier = "art"
+  name = "home"
   url = "art/"
   home = true
-
+  
   [[params.navlinks]]
   identifier = "digital"
   name = "digital illustration"
   url = "digital/"
-
+  
   [[params.navlinks]]
   identifier = "traditional"
   name = "fine arts"
   url = "traditional/"
-
+  
   [[params.navlinks]]
   identifier = "merch"
   name = "merch design"
   url = "merch/"
   parent = "digital"
-
+  
   [[params.navlinks]]
   identifier = "graphic"
   name = "graphic design"
   url = "graphic/"
-
+  
+  [[params.navlinks]]
+  name = "about"
+  url = "about/"
 
   [params.social]
   email         = "sarahandsun@gmail.com"

@@ -1,7 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
 title = "MERCH"
-draft = true
 showonlyimage = false
 weight = 1
 +++
