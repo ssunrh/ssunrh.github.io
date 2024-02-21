@@ -39,11 +39,6 @@ googleAnalytics = ""
   url = "digital/"
   
   [[params.navlinks]]
-  identifier = "traditional"
-  name = "fine arts"
-  url = "traditional/"
-  
-  [[params.navlinks]]
   identifier = "merch"
   name = "merch design"
   url = "merch/"
