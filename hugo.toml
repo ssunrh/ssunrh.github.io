@@ -28,8 +28,7 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  identifier = "art"
-  name = "home"
+  name = "about"
   url = "art/"
   home = true
 
@@ -54,9 +53,6 @@ googleAnalytics = ""
   name = "graphic design"
   url = "graphic/"
 
-  [[params.navlinks]]
-  name = "about"
-  url = "about/"
 
   [params.social]
   email         = "sarahandsun@gmail.com"

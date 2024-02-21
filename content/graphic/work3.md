@@ -1,14 +1,14 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "SPOTIFY PLAYLIST"
+title = "TFT SCORE REPORT TEMPLATES"
 draft = false
-image = "img/portfolio/playlist_promo.png"
+image = "img/portfolio/fundraiser.jpg"
 showonlyimage = true
 weight = 3
 +++
 
 ![1]
 
-kdc spotify playlist promotional image for instagram.
+honeykrush fundraiser promotional graphic for ucla esports.
 
-[1]: /img/portfolio/playlist_promo.png
+[1]: /img/portfolio/fundraiser.jpg
