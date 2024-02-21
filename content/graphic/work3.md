@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "TFT SCORE REPORT TEMPLATES"
+title = "FUNDRAISER POST"
 draft = false
 image = "img/portfolio/fundraiser.jpg"
 showonlyimage = true
